@@ -1,0 +1,20 @@
+##############################
+# ignore following path
+##############################
+/.git
+/.settings
+/bin
+/dist
+/sql
+/natives
+
+##############################
+# ignore folloing extension
+##############################
+*.exe
+*.jar
+*.class
+*.project
+*.classpath
+*.prefs
+
